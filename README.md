@@ -12,7 +12,7 @@ Other brushes have also been debugged, such as “005 Calligraph” is a hard ed
 <br />“006 Paint Brush” to draw at maximum pressure, the edges will not jagged.
 
 **MyPaint doesn't need these brushes**, it is just designed for GIMP 2.10.
-<br />And I accidentally deleted MyPaint-brushes “.conf” file during debugging…
+<br />And I accidentally deleted MyPaint-brushes “.conf” file when debugging…
 
 # Style:
 Orderly arrangement and clear classification.
