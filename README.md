@@ -31,9 +31,10 @@ Brushes-files as Public Domain, CC0, Free to use.
   <summary>中文说明</summary>
   
 GIMP 2.10 发布，添加了数不清的新功能。 其中的一个功能是 GIMP 可以使用 MyPaint 的画笔，但我感觉载入的默认画笔的图标与顺序有些混乱。
-<br />所以我制作了 36个 MyPaint 画笔，这些画笔有序排列、分类清晰，便于使用。
+所以我制作了 36个 MyPaint 画笔，这些画笔有序排列、分类清晰，便于使用。
 
-**这套画笔不适合 MyPaint**，比如“002 Frame Line”在 MyPaint 中会有“笔漏水”的现象。 在 GIMP 2.10 中按住 Shift 键“002 Frame Line”可以画出直线，这是在 GIMP 中默认的 MyPaint 画笔做不到的。
+**这套画笔不适合 MyPaint**，比如“002 Frame Line”在 MyPaint 中会有“笔漏水”的现象。 
+<br />在 GIMP 2.10 中按住 Shift 键“002 Frame Line”可以画出直线，这是在 GIMP 中默认的 MyPaint 画笔做不到的。
 
 其他的画笔也有经过调试，比如“005 Calligraph”是硬边。
 <br />使用“006 Paint Brush”以最大压力绘画时边缘也不会出现锯齿。
