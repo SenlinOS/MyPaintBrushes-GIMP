@@ -6,6 +6,7 @@ MyPaint-Brushes for GIMP 2.10.x
 **I made these MyPaint-Brushes for GIMP**
 
 **This brushes is not suitable for MyPaint**, such as “002 Frame Line” in MyPaint will “pen leaking” phenomenon.
+<br />In GIMP 2.10, hold down the Shift key “002 Frame Line” can draw a straight line
 
 Other brushes have also been debugged, such as “005 Calligraph” is a hard edge.
 <br />“006 Paint Brush” to draw at maximum pressure, the edges will not jagged.
@@ -17,8 +18,8 @@ Other brushes have also been debugged, such as “005 Calligraph” is a hard ed
 Orderly arrangement and clear classification.
 
 # Installation:
-- Edit -> Preferences ->(Folders -> MyPaint Brushes)
-- Click on the [Add a new folder] button to open the [36 Brushes folder] directory.
+- Edit -> Preferences ->(Folders -> MyPaint Brushes).
+- Click on the [Add a new folder] button to open the [SLOS_MPB] directory.
 - Restart GIMP
 
 # License:
@@ -41,8 +42,8 @@ GIMP 2.10 发布，添加了数不清的新功能。 其中的一个功能是 GI
 <br />并且我在调试时不小心把导入 MyPaint 画笔的“.conf”文件给删除了…
 
 # 安装方法： 
-- 打开 GIMP 菜单，编辑 -> 首选项 -> (文件夹 -> MyPaint 笔刷) ，
-- 点击 [添加新文件夹] 按钮，打开 [这些画笔的文件夹] 所在的目录，确定后重启 GIMP。
+- 打开 GIMP 菜单，编辑 -> 首选项 -> (文件夹 -> MyPaint 笔刷)。
+- 点击 [添加新文件夹] 按钮，打开 [SLOS_MPB] 目录。
 - 重启GIMP
 
 # 许可证：
