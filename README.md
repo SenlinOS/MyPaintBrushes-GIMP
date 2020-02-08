@@ -1,7 +1,7 @@
 # MyPaintBrushes-GIMP
 MyPaint-Brushes for GIMP 2.10.x
 
-！[img](https://raw.githubusercontent.com/SenlinOS/databox/master/MyPaint-Brushes-for-GIMP-2.10-By_SenlinOS.jpg)
+![img](https://raw.githubusercontent.com/SenlinOS/databox/master/MyPaint-Brushes-for-GIMP-2.10-By_SenlinOS.jpg)
 
 **I made these MyPaint-Brushes for GIMP**
 
