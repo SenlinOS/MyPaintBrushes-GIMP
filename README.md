@@ -17,12 +17,12 @@ Other brushes have also been debugged, such as “005 Calligraph” is a hard ed
 Orderly arrangement and clear classification.
 
 # Installation:
-- 1. Edit -> Preferences ->(Folders -> MyPaint Brushes)
-- 2. Click on the [Add a new folder] button to open the [36 Brushes folder] directory.
-- 3. Restart GIMP
+- Edit -> Preferences ->(Folders -> MyPaint Brushes)
+- Click on the [Add a new folder] button to open the [36 Brushes folder] directory.
+- Restart GIMP
 
 # License:
-Brushes-files as Public Domain, CC0
+Brushes-files as Public Domain, CC0, Free to use.
 
 ---
 
@@ -41,9 +41,9 @@ GIMP 2.10 发布，添加了数不清的新功能。 其中的一个功能是 GI
 <br />并且我在调试时不小心把导入 MyPaint 画笔的“.conf”文件给删除了…
 
 # 安装方法： 
-- 1. 打开 GIMP 菜单，编辑 -> 首选项 -> (文件夹 -> MyPaint 笔刷) ，
-- 2. 点击 [添加新文件夹] 按钮，打开 [这些画笔的文件夹] 所在的目录，确定后重启 GIMP。
-- 3. 重启GIMP
+- 打开 GIMP 菜单，编辑 -> 首选项 -> (文件夹 -> MyPaint 笔刷) ，
+- 点击 [添加新文件夹] 按钮，打开 [这些画笔的文件夹] 所在的目录，确定后重启 GIMP。
+- 重启GIMP
 
 # 许可证：
 CC0，公共领域，画笔文件可以自由使用。
