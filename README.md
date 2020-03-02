@@ -14,6 +14,9 @@ Other brushes have also been debugged, such as “005 Calligraph” is a hard ed
 **MyPaint doesn't need these brushes**, it is just designed for GIMP 2.10.
 <br />And I accidentally deleted MyPaint-brushes “.conf” file when debugging…
 
+# Update:
+- 2020-03-02, Remove the smudge effect of the [016_Flat-Brush], because the smudge effect will fade the color of the initial position of painting.
+
 # Style:
 Orderly arrangement and clear classification.
 
@@ -41,6 +44,9 @@ GIMP 2.10 发布，添加了数不清的新功能。 其中的一个功能是 GI
 
 **MyPaint 不需要这些画笔**，这只是给 GIMP 2.10 设计的。
 <br />并且我在调试时不小心把导入 MyPaint 画笔的“.conf”文件给删除了…
+
+# 更新：
+- 2020-03-02，去掉[016_Flat-Brush]画笔的涂抹效果，因为涂抹效果会让落笔初始位置的颜色变淡。 
 
 # 安装方法： 
 - 打开 GIMP 菜单，编辑 -> 首选项 -> (文件夹 -> MyPaint 笔刷)。
