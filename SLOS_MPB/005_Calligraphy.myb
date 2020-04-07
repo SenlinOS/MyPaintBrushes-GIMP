@@ -3,7 +3,7 @@
     "description": "", 
     "group": "", 
     "notes": "", 
-    "parent_brush_name": "SenlinOS/005_Calligraph", 
+    "parent_brush_name": "SenlinOS/005_Calligraphy", 
     "settings": {
         "anti_aliasing": {
             "base_value": 0.0, 
