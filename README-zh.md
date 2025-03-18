@@ -33,6 +33,10 @@ GIMP 2.10 发布，添加了数不清的新功能。 其中的一个功能是 GI
 <br />并且我在调试时不小心把导入 MyPaint 画笔的“.conf”文件给删除了…
 
 # 安装方法：
+
+如何下载：点击绿色Code按钮，然后点击Download ZIP。
+<br />![Code button and Download ZIP](https://raw.githubusercontent.com/SenlinOS/databox/refs/heads/master/MyPaint-Brushes-for-GIMP-Installation/Code_button-and-Download_ZIP.png)
+
 - 打开 GIMP 菜单，编辑 -> 首选项 -> (文件夹 -> MyPaint 笔刷)。
 
 - 点击 [添加新文件夹] 按钮，打开 [SLOS_MPB] 目录。点击「确定」按钮完成。

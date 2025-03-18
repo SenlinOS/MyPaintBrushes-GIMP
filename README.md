@@ -36,6 +36,9 @@ Orderly arrangement and clear classification.
 
 # Installation:
 
+How to download: Click the green Code button and click Download ZIP.
+<br />![Code button and Download ZIP](https://raw.githubusercontent.com/SenlinOS/databox/refs/heads/master/MyPaint-Brushes-for-GIMP-Installation/Code_button-and-Download_ZIP.png)
+
 - Edit -> Preferences ->(Folders -> MyPaint Brushes).
 
 - Click on the [Add a new folder] button to open the [SLOS_MPB] directory. Click the "OK" button to finish.
